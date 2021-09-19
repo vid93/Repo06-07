@@ -1,0 +1,97 @@
+h3{
+    color: red;
+    text-align: center;
+    
+}
+h4{
+    text-align: left;
+    color: aquamarine;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 10px;
+}
+.text{
+    margin: auto;
+    height: 140px;
+    width: 90%;
+    align-content: center;
+    margin-bottom: 20px;
+    font-size: smaller;
+    justify-content: center;
+}
+.wrapper1{
+    height: 350px;
+    width: 200px;
+    position: absolute;
+    top: 40px;
+    left: 30%;
+    padding-top: 25px;
+}
+.wrapper2{
+    height: 350px;
+    width: 200px;
+    position: absolute;
+    top: 40px;
+    left: 44%;
+    padding-top: 25px;
+}
+.wrapper3{
+    height: 350px;
+    width: 200px;
+    position: absolute;
+    top: 40px;
+    left: 58%;
+    padding-top: 25px;
+}
+.wrapper4{
+    height: 350px;
+    width: 200px;
+    position: absolute;
+    top: 420px;
+    left: 30%;
+    padding-top: 25px;
+}
+.wrapper5{
+    height: 350px;
+    width: 200px;
+    position: absolute;
+    top: 420px;
+    left: 44%;
+    padding-top: 25px;
+}
+.wrapper6{
+    height: 350px;
+    width: 200px;
+    position: absolute;
+    top: 420px;
+    left: 58%;
+    padding-top: 25px;
+}
+.wrapper7{
+    height: 350px;
+    width: 200px;
+    position: absolute;
+    top: 800px;
+    left: 30%;
+    padding-top: 25px;
+}
+.wrapper8{
+    height: 350px;
+    width: 200px;
+    position: absolute;
+    top: 800px;
+    left: 44%;
+    padding-top: 25px;
+}
+.wrapper9{
+    height: 350px;
+    width: 200px;
+    position: absolute;
+    top: 800px;
+    left: 58%;
+    padding-top: 25px;
+}
+img{
+    height: 130px;
+    width: 200px;
+}
